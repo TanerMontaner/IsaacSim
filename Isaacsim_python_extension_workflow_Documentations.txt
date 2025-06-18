@@ -1,0 +1,14 @@
+﻿https://github.com/cpnota/isaacsim_standalone_examples
+https://docs.omniverse.nvidia.com/kit/docs/kit-manual/latest/guide/kit_overview.html
+https://docs.omniverse.nvidia.com/kit/docs/kit-manual/latest/Modules.html
+https://docs.isaacsim.omniverse.nvidia.com/4.5.0/core_api_tutorials/tutorial_core_hello_world.html
+https://docs.isaacsim.omniverse.nvidia.com/4.5.0/python_scripting/manual_standalone_python.html
+https://docs.isaacsim.omniverse.nvidia.com/4.5.0/python_scripting/core_api_overview.html
+https://docs.isaacsim.omniverse.nvidia.com/4.5.0/utilities/debugging/tutorial_advanced_python_debugging.html
+https://docs.omniverse.nvidia.com/extensions/latest/ext_vs-code-link.html
+https://docs.omniverse.nvidia.com/extensions/latest/ext_python-scripting-component.html
+https://docs.omniverse.nvidia.com/extensions/latest/ext_python-scripting-component/getting_started.html
+https://docs.omniverse.nvidia.com/extensions/latest/ext_python-scripting-component/user_manual.html
+https://docs.isaacsim.omniverse.nvidia.com/4.5.0/introduction/quickstart_isaacsim.html
+https://docs.isaacsim.omniverse.nvidia.com/4.5.0/overview/extensions_renaming.html
+https://docs.omniverse.nvidia.com/extensions/latest/ext_vs-code-link.html
